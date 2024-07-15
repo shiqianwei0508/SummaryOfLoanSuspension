@@ -1,3 +1,17 @@
+# mac
+**/.DS_Store
 
-images/.DS_Store
-.DS_Store
+# softwars
+.idea
+.vscode
+
+# js
+**/node_modules
+
+# py
+**/venv
+**/__pycache__
+
+# tmp
+**/tmp/*
+**/*.bak
